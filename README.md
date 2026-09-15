@@ -1,16 +1,16 @@
 # thematic-maps-mobiles
 
-Mapas temáticos para el análisis de la variable MOBILES en América.
+En este repositorio se presenta un análisis de la variable MOBILES en distintos países de América mediante el uso de mapas temáticos.
 
 ## Contenido
 
-Este repositorio contiene el desarrollo de tres mapas temáticos:
+Se elaboraron tres tipos de mapas:
 
 - Dot Density Map
 - Proportional Symbol Map
 - Choropleth Map
 
-El análisis considera países de Norteamérica, Sudamérica, Centroamérica y el Caribe.
+El análisis incluye países de Norteamérica, Sudamérica, Centroamérica y el Caribe.
 
 ## Notebook
 
