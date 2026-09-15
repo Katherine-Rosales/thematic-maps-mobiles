@@ -14,4 +14,4 @@ El análisis incluye países de Norteamérica, Sudamérica, Centroamérica y el 
 
 ## Notebook
 
-[Ver notebook en Google Colab](https://colab.research.google.com/drive/1-W7D29D_ZPA3X_8roHKVChVynRGH4EsK?usp=sharing)
+[Ver notebook en Google Colab](https://colab.research.google.com/github/Katherine-Rosales/thematic-maps-mobiles/blob/main/thematic_maps_mobiles.ipynb)
